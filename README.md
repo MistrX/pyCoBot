@@ -1,7 +1,7 @@
 pyCoBot
 =======
 
-pyCoBot es un bot IRC escrito en Python y basado en CoBot.
+pyCoBot es un bot IRC escrito en Python y basado en CoBot. Cabe especificar que solamente funciona con interfaz Unix, por lo que los atributos como fork no funcionarán en Windows.
 
 Instalación
 ===========
